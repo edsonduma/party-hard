@@ -1,0 +1,7 @@
+{
+  "name": "react-qr-barcode-scanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
